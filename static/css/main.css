@@ -1,5 +1,9 @@
+.nice-font {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .enormous {
-  font-size: 300%;
+  font-size: 800%;
 }
 
 .capitalise {
@@ -12,4 +16,12 @@
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.center {
+  text-align: center;
+}
+
+.lower {
+  margin-top: 1em;
 }

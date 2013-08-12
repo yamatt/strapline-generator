@@ -9,6 +9,7 @@ var words = {
         "think",
         "enjoy",
         "build",
+        "search",
     ],
     length: 3,
     get_words: function (length) {
@@ -20,7 +21,6 @@ var words = {
         for (var i=0; i<length; i++) {
             var random_i = Math.floor(Math.random() * words.length);
             out_words.push(words.splice(random_i, 1));
-            console.log("here");
         }
         return out_words;
     },
