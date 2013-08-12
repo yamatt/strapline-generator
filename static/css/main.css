@@ -1,0 +1,15 @@
+.enormous {
+  font-size: 300%;
+}
+
+.capitalise {
+  text-transform: capitalize;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
