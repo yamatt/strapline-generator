@@ -10,6 +10,9 @@ var words = {
         "enjoy",
         "build",
         "search",
+        "synthesise",
+        "design",
+        "stragetise",
     ],
     length: 3,
     get_words: function (length) {
